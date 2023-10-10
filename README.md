@@ -13,5 +13,3 @@ Olá, Seja bem vindo! Eu sou o Douglas. Te convido a dar uma olhadinha nos proje
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
